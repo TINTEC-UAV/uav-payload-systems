@@ -1,5 +1,7 @@
 # Tethered Drone vs Traditional Drone for Industrial Use
 
+![Tethered Drone vs Traditional Drone](../images/tethered-drone-vs-traditional-drone.webp)
+
 A tethered drone and a traditional battery-powered drone serve different industrial mission requirements.
 
 Tethered drones receive continuous electrical power from a ground station through a tether cable, making them suitable for long-duration monitoring, emergency response, public safety, infrastructure protection, and fixed-position surveillance.
