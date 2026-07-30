@@ -86,3 +86,30 @@ The guide explains:
 - What operators should consider when selecting a system
 
 [Read the complete tethered drone applications guide](https://dgtintec.com/tethered-drone-applications/)
+
+
+---
+
+# 📚 Latest Resources
+
+## Where Are Tethered Drones Used? 7 Real-World Industrial Applications
+
+![Industrial tethered drone applications](images/industrial-tethered-drone-applications.jpg)
+
+Industrial tethered drone systems are becoming an essential solution for long-duration aerial missions across oil & gas, power utilities, construction, mining, emergency response and critical infrastructure.
+
+### Read on TINTEC Website
+
+https://dgtintec.com/tethered-drone-applications/
+
+### Read on Medium
+
+https://dgtintec.medium.com/where-are-tethered-drones-used-7-real-world-industrial-applications-explained-f3eecac18ee5
+
+### Related Guides
+
+- Tethered Drone vs Traditional Drone
+- What Is a UAV Power System?
+- Best Drone Payload Release System
+
+---
