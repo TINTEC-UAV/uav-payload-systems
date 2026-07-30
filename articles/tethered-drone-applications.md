@@ -1,6 +1,6 @@
 # 7 Real-World Tethered Drone Applications
 
-![7 Real-World Tethered Drone Applications](../images/Industrial tethered drone applications cover.webp)
+![Industrial tethered drone applications](../images/industrial-tethered-drone-applications.webp)
 
 Tethered drone systems provide continuous electrical power to an airborne UAV through a lightweight cable connected to a ground power station.
 
