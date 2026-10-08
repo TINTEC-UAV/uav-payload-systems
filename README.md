@@ -190,6 +190,7 @@ Wind, terrain, release height, people on the ground and the shape of the carried
 * [TL3F Dual-Channel Drone Payload Release System](https://dgtintec.com/product/tl3f-drone-payload-release-system/)
 * [T4 UAV Thrower System](https://dgtintec.com/product/t4-uav-thrower-system/)
 * [UAV Payload Systems Guide](https://dgtintec.com/uav-payload-systems-guide/)
+* [UAV Warning Light System Field Checklist for Payload Operations](articles/uav-warning-light-system-field-checklist.md)
 
 For platform compatibility, payload requirements or OEM/ODM integration, please [contact TINTEC](https://dgtintec.com/contact/).
 
